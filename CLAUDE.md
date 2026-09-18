@@ -1,3 +1,24 @@
+# Claude Code Templates (davila7/claude-code-templates)
+
+## 프로젝트 개요
+복잡한 AI 코딩 에이전트를 실무 프로젝트에 즉시 투입할 수 있도록 최적의 설정과 실전 템플릿을 한곳에 모아둔 "AI 코딩 세팅 완제품 종합상자"
+일일이 프롬프트와 규칙을 설정하느라 헤맬 필요 없이 내 프로젝트 분야에 맞는 완성형 템플릿을 바로 골라 적용
+AI 코딩을 처음 도입하는 팀도 1분 만에 최고 효율의 업무 환경을 세팅할 수 있도록 돕는 실전 가이드
+
+## 핵심 특징 & 추천 분야
+- AI코딩세팅패키지
+- 실전템플릿종합상자
+- 원클릭환경구성
+- 초고속업무도입
+- 에이전트활용극대화
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code when working with this repository.
